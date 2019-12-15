@@ -25,6 +25,8 @@ bfc -i input_mri.nii.gz -o output_mri.bfc.nii.gz
 bdp.sh <BFC File> [Optional Flags] --nii <4D DWI NIfTI> -g <Gradient File> -b <B-Value File>
 ```
 
+For more information read 4.4 in DR_Report.pdf
+
 Dataset can be accessed at:
 
 https://drive.google.com/drive/folders/1tyRSqA0LHC6VK483JqTTITqfo0RALUTF?usp=sharing
