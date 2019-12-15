@@ -14,10 +14,10 @@ Generate Data:
 
 1) Generate bias-field-corrected images
 
-`
+```
 example
 bfc -i input_mri.nii.gz -o output_mri.bfc.nii.gz
-`
+```
 
 2) Genrate coregistered diffusion MRI
 
