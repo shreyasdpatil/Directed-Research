@@ -1,4 +1,4 @@
-# Directed-Research
+# Generating conductivity maps from T1-MR images of human brain using 3D autoencoder like architectures
 
 Usage:
 
